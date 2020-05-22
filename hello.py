@@ -1,3 +1,3 @@
-def myfunc():
+def myfuncdev():
     return 1
-print(myfunc())
+print(myfuncdev())
