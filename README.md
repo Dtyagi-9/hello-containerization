@@ -1,2 +1,2 @@
 # hello-containerization
-My attempt to learn docker containerization
+My attempt to learn the docker containerization
